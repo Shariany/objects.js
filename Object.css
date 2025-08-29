@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(183, 192, 188);
+    display: flex;
+    justify-content: center;
+    padding: 50%;
+    align-items: center;
+}
+.profile-card{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgb(34, 17, 17);
+    width: 250px;
+}
+.profile-card img{
+    width:250px;
+        border-radius:10px;
+   background-color: blue;
+    margin-bottom:15px;
+    text-align: center;
+}
